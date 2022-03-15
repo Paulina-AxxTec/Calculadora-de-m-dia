@@ -3,7 +3,7 @@ Calcula a média anual conforme as notas bimestrais
 <html>
 <head>
 <title> Treinando</title>
-
+<link rel="stylesheet" href="src/Calculadora-de-m-dia/musculos.css">
 
 <body>
   <div class="container">
